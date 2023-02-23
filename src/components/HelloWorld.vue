@@ -95,7 +95,9 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+<!-- Add "scoped" attribute to limit CSS to this component only 
+scope hanya bekerja di halaman ini saja.
+-->
 <style scoped>
 h3 {
   margin: 40px 0 0;
